@@ -1,0 +1,9 @@
+// Placeholder for U-2-Net ONNX model file
+// This file should be downloaded from the official U-2-Net repository
+// and placed in the public directory for production use
+// 
+// The actual model file is typically around 176MB
+// Download from: https://github.com/xuebinqin/U-2-Net
+// Or from: https://drive.google.com/file/d/1ao1ovG1Qtx4b7EoskHXmi2E9rp5CHLcZ/view
+//
+// For development purposes, this is just a placeholder file
